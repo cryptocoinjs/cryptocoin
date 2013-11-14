@@ -1,22 +1,33 @@
 {
   "name": "cryptocoin",
   "version": "0.0.1",
-  "description": "Crypto Coin JavaScript library",
+  "description": "Crypto currencies like Bitcoin and Litecoin.",
   "main": "./src/index.js",
-
-  "keywords": [],
-
-  "author": "Stefan Thomas <justmoon@members.fsf.org> (http://www.justmoon.net)",
-
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/cryptocoinjs/cryptocoin"
+  "keywords": [
+    "bitcoin",
+    "litecoin",
+    "crypto",
+    "cryptography",
+    "cryptocoin",
+    "coin",
+    "currency",
+    "cryptocurrency"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptocoinjs/cryptocoin"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "mocha": "*"
+  },
+  "dependencies": {
+    "cryptocoin-sha256": "0.0.2",
+    "cryptocoin-convert-hex": "0.0.1",
+    "cryptocoin-ripemd160": "0.0.2",
+    "cryptocoin-address-btc": "0.0.1",
+    "cryptocoin-eckey": "0.0.1",
+    "cryptocoin-bigint": "0.0.1",
+    "cryptocoin-base58": "0.0.1"
   }
-
-
-
-
 }

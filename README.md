@@ -1,15 +1,22 @@
 cryptocoin
 ----------
 
+A JavaScript library to allow you to use crypto currencies in the browser.
+
 Not ready to use. Please avoid. See: https://github.com/cryptocoinjs for more details.
 
 
-# License
+
+License
+-------
 
 This library is free and open-source software released under the MIT
 license.
 
-# Copyright
+
+
+Copyright
+---------
 
 BitcoinJS (c) 2011-2012 Stefan Thomas  
 Released under MIT license  
