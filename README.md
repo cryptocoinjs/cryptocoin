@@ -1,7 +1,7 @@
 cryptocoin
 ----------
 
-Not ready to use. Please avoid. See: https://github.com/cryptocoinjs/cryptocoin for more details.
+Not ready to use. Please avoid. See: https://github.com/cryptocoinjs for more details.
 
 
 # License
