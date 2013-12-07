@@ -1,3 +1,8 @@
+0.2.0 / 2013-12-07
+------------------
+* updated to `eckey` and `ecdsa` `0.2.0` => `recoverPubKey()` moved from `ecdsa` to `eckey`
+* circular dependence of `eckey` and `ecdsa` fixed
+
 0.1.0 / 2013-11-21
 ------------------
 * updated deps
