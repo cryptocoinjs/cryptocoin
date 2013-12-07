@@ -26,8 +26,9 @@
     "convert-hex": "0.1.x",
     "ripemd160": "0.1.x",
     "btc-address": "0.1.x",
-    "eckey": "0.1.x",
+    "eckey": "0.2.x",
     "cryptocoin-bigint": "0.1.x",
-    "cryptocoin-base58": "0.1.x"
+    "cryptocoin-base58": "0.1.x",
+    "ecdsa": "~0.2.0"
   }
 }

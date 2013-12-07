@@ -8,6 +8,7 @@ var Crypto = {
 module.exports = {
   Address: require('btc-address'),
   Key: require('eckey'),
+  ECDSA: require('ecdsa'),
   BigInteger: require('cryptocoin-bigint'),
   Crypto: Crypto,
   base58: require('cryptocoin-base58'),
