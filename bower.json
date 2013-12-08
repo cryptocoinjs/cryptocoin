@@ -1,6 +1,6 @@
 {
   "name": "cryptocoin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Crypto currency library for Bitcoin, Litecoin, etc.",
   "keywords": [
     "bitcoin",
@@ -14,5 +14,5 @@
     "namecoin"
   ],
   "repo": "https://github.com/cryptocoinjs/cryptocoin",
-  "main":  "./dist/cryptocoin.js",
+  "main": "./dist/cryptocoin.js"
 }

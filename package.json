@@ -1,17 +1,18 @@
 {
   "name": "cryptocoin",
-  "version": "0.2.0",
-  "description": "Crypto currencies like Bitcoin and Litecoin.",
-  "main": "./src/index.js",
+  "version": "0.3.0",
+  "description": "Crypto currency library for Bitcoin, Litecoin, etc.",
+  "main": "./lib/index.js",
   "keywords": [
     "bitcoin",
     "litecoin",
     "crypto",
-    "cryptography",
     "cryptocoin",
+    "cryptography",
     "coin",
     "currency",
-    "cryptocurrency"
+    "cryptocurrency",
+    "namecoin"
   ],
   "author": "",
   "repository": {

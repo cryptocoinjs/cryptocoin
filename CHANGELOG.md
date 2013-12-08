@@ -1,3 +1,10 @@
+0.3.0 / 2013-12-08
+------------------
+* first usable standalone release, see `dist/` dir or `README`
+* added `VERSION` field
+* added `secure-random` as a dep
+* added bower and component support
+
 0.2.0 / 2013-12-07
 ------------------
 * updated to `eckey` and `ecdsa` `0.2.0` => `recoverPubKey()` moved from `ecdsa` to `eckey`
