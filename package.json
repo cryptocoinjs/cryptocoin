@@ -19,7 +19,9 @@
     "url": "https://github.com/cryptocoinjs/cryptocoin"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "browserify": "~2.36.1",
+    "uglifyjs": "~2.3.6"
   },
   "dependencies": {
     "sha256": "0.1.x",
