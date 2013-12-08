@@ -3,7 +3,28 @@ cryptocoin
 
 A JavaScript library to allow you to use crypto currencies in the browser.
 
-Not ready to use. Please avoid. See: https://github.com/cryptocoinjs for more details.
+
+Install
+-------
+
+### Node.js/Browserify
+
+    npm install --save cryptocoin
+
+### Component
+
+    component install cryptocoinjs/cryptocoin
+
+
+### Bower
+
+    bower install cryptocoin
+
+
+### Script
+
+```html
+<script src="/path/to/cryptocoin.min.js"></script>
 
 
 
