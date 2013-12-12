@@ -25,7 +25,13 @@ Install
 
 ```html
 <script src="/path/to/cryptocoin.min.js"></script>
+```
 
+
+Contributions
+-------------
+
+Please read this: https://github.com/cryptocoinjs/cryptocoin/wiki/Contributor-Guidelines
 
 
 License
