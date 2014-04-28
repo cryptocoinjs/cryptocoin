@@ -5,8 +5,8 @@ A JavaScript library to allow you to use crypto currencies in the browser.
 
 **NOTE:** It's undecided if this module will be used going forward since much of the innovation is happening on the individual module level.
 
-**Active Development:** https://github.com/cryptocoinjs
-**Documentation:** http://cryptocoinjs.com
+- **Active Development:** https://github.com/cryptocoinjs
+- **Documentation:** http://cryptocoinjs.com
 
 
 Install
